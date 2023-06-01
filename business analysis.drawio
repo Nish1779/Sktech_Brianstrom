@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T18:47:27.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="1NlcF117rg0l3rWLP1S0" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T19:08:16.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="Q_0OU6T5A7t31ONwtUnF" version="21.3.6" type="github">
   <diagram name="Page-1" id="avuCrzYc_2zifGQklvcb">
-    <mxGraphModel dx="1650" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2843" dy="2349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,8 +63,53 @@
         <mxCell id="20oGBJxCJiwP2vIUOQRp-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Planning Project Launch&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-595" y="1690" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="20oGBJxCJiwP2vIUOQRp-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Discovery Analysis&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;To define the approaches&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="1850" width="230" height="100" as="geometry" />
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-23" target="20oGBJxCJiwP2vIUOQRp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Discovery Analysis&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;To define the approaches&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Share the Approaches with Stakeholders&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Share Guidance and tools to lead the Conceptual baseline of understanding of business vision, need and impacts.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1850" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-25" target="20oGBJxCJiwP2vIUOQRp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-25" value="DA&amp;nbsp; &amp;nbsp;DA&amp;nbsp; &amp;nbsp;IC&amp;nbsp; IO&amp;nbsp; &amp;nbsp;IA" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-27" target="20oGBJxCJiwP2vIUOQRp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-27" target="20oGBJxCJiwP2vIUOQRp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-27" target="20oGBJxCJiwP2vIUOQRp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Domain Analysis&amp;nbsp;&lt;br&gt;&lt;font style=&quot;&quot;&gt;3 methos&lt;/font&gt;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-29" value="How to define and understand the domain of the company&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="2190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-30" target="20oGBJxCJiwP2vIUOQRp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-30" value="SWOT&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-32" value="Value chain" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-33" value="Business Model" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oGBJxCJiwP2vIUOQRp-36" target="20oGBJxCJiwP2vIUOQRp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-36" value="SWOT MATRIX&lt;br&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SO: How to exploit potential&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ST: How to use strength to RESISTE threats and turn into Opportunities?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;WO: Can we use Opportunity to mitigate weakness? / Or can develop new capabilities?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;WT: Can we restructure to avoid threat?&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="2440" width="362.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="20oGBJxCJiwP2vIUOQRp-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-988.75" y="2660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
