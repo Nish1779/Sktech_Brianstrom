@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T21:04:27.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="zCocLSKCOn2VpOn9DcDP" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T21:14:20.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="YILHUYB7n9LpVaH57d5n" version="21.3.6" type="github">
   <diagram name="Page-1" id="avuCrzYc_2zifGQklvcb">
-    <mxGraphModel dx="2727" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3822" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry x="-170" y="400" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="20oGBJxCJiwP2vIUOQRp-19" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Tylor&#39;s Content&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="940" width="555" height="280" as="geometry" />
+          <mxGeometry x="-417.5" y="620" width="555" height="280" as="geometry" />
         </mxCell>
         <mxCell id="xvKbqlWR54QsmGuHGJQW-46" value="" style="group;fillColor=#999999;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1680" y="1390" width="1520" height="1385" as="geometry" />
@@ -205,26 +205,38 @@
         <mxCell id="xvKbqlWR54QsmGuHGJQW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-36" target="xvKbqlWR54QsmGuHGJQW-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xvKbqlWR54QsmGuHGJQW-48" target="xvKbqlWR54QsmGuHGJQW-56" edge="1">
+        <mxCell id="feKw_-WsJlsvPGO94x_M-3" value="" style="group;fillColor=#999999;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="1390" width="300" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Techniques to Clarify the Problem/ Opportunity Statements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
+          <mxGeometry y="120" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="feKw_-WsJlsvPGO94x_M-3" source="xvKbqlWR54QsmGuHGJQW-49" target="xvKbqlWR54QsmGuHGJQW-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Techniques to Clarify the Problem/ Opportunity Statements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="1490" width="300" height="70" as="geometry" />
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-49" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;PROBLEM OR OPPORTUNITY&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#000000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
+          <mxGeometry x="10" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xvKbqlWR54QsmGuHGJQW-49" target="xvKbqlWR54QsmGuHGJQW-48" edge="1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Methods to do :&lt;br&gt;- FIVE WHYS&lt;br&gt;- Fishbone Diagram&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;rounded=0;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
+          <mxGeometry x="35.5" y="240" width="229" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="feKw_-WsJlsvPGO94x_M-3" source="xvKbqlWR54QsmGuHGJQW-48" target="xvKbqlWR54QsmGuHGJQW-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-49" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;PROBLEM OR OPPORTUNITY&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="1370" width="280" height="90" as="geometry" />
+        <mxCell id="feKw_-WsJlsvPGO94x_M-1" value="&lt;ul&gt;&lt;li&gt;Spend Time Understanding the True Business Requirements = &lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;background-color: rgb(255, 31, 23);&quot;&gt;Needs &amp;amp; Wants&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Gather some data real evidence&amp;nbsp;that problem is worth&amp;nbsp;solving.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Understand the root-cause of problem before attempting&amp;nbsp;to&amp;nbsp;solve.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;By addressing&amp;nbsp;each&amp;nbsp;root cause,&amp;nbsp;you can ensure the most complete scope to address business requirement.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;rounded=0;align=left;" vertex="1" parent="feKw_-WsJlsvPGO94x_M-3">
+          <mxGeometry x="2.25" y="370" width="295.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="feKw_-WsJlsvPGO94x_M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvKbqlWR54QsmGuHGJQW-56" target="feKw_-WsJlsvPGO94x_M-1">
+        <mxCell id="feKw_-WsJlsvPGO94x_M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="feKw_-WsJlsvPGO94x_M-3" source="xvKbqlWR54QsmGuHGJQW-56" target="feKw_-WsJlsvPGO94x_M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Methods to do :&lt;br&gt;- FIVE WHYS&lt;br&gt;- Fishbone Diagram&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-94.5" y="1610" width="229" height="80" as="geometry" />
+        <mxCell id="feKw_-WsJlsvPGO94x_M-12" value="&lt;font style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="1130" width="400" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="feKw_-WsJlsvPGO94x_M-1" value="&lt;ul&gt;&lt;li&gt;Spend Time Understanding the True Business Requirements = &lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;background-color: rgb(255, 31, 23);&quot;&gt;Needs &amp;amp; Wants&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Gather some data real evidence&amp;nbsp;that problem is worth&amp;nbsp;solving.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Understand the root-cause of problem before attempting&amp;nbsp;to&amp;nbsp;solve.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;By addressing&amp;nbsp;each&amp;nbsp;root cause,&amp;nbsp;you can ensure the most complete scope to address business requirement.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-127.75" y="1740" width="295.5" height="140" as="geometry" />
+        <mxCell id="feKw_-WsJlsvPGO94x_M-13" value="&lt;span style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1130" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-14" value="Analysis :&lt;br&gt;need of analysis&amp;nbsp;&lt;br&gt;models for that&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1160" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
