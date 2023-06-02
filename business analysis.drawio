@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T22:06:21.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="gdOoj8sZnwbJnuE_d00_" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T22:14:49.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="RxbyeLbcALrimri_xuwr" version="21.3.6" type="github">
   <diagram name="Page-1" id="avuCrzYc_2zifGQklvcb">
     <mxGraphModel dx="2530" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,6 +262,18 @@
         <mxCell id="feKw_-WsJlsvPGO94x_M-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="feKw_-WsJlsvPGO94x_M-22" value="6 Models" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="590" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -286,6 +298,9 @@
         <mxCell id="feKw_-WsJlsvPGO94x_M-29" value="Rules &amp;amp; Logic" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-30" target="feKw_-WsJlsvPGO94x_M-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="feKw_-WsJlsvPGO94x_M-30" value="Process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
@@ -306,6 +321,15 @@
         </mxCell>
         <mxCell id="feKw_-WsJlsvPGO94x_M-39" value="&lt;ul&gt;&lt;li&gt;User Story&lt;/li&gt;&lt;li&gt;BCD&lt;/li&gt;&lt;li&gt;Decomposition Model&lt;/li&gt;&lt;li&gt;Feature Model&lt;/li&gt;&lt;li&gt;Use Case Diagram&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="2320" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-45" target="feKw_-WsJlsvPGO94x_M-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-45" value="&lt;ul&gt;&lt;li&gt;Dynamic understanding of the activities, tasks and steps that stakeholders and/or users perform in achieving the goal.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Active in all phases of business analysis &lt;i&gt;[ Strategy, Scope, Specification]&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;Can be Use in &lt;br&gt;AS IS - Current State&amp;nbsp; &lt;br&gt;&amp;amp; &lt;br&gt;TO BE - Future State&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2160" width="190" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-47" value="&lt;ul&gt;&lt;li&gt;User Stories&lt;/li&gt;&lt;li&gt;SIPOC Models&lt;/li&gt;&lt;li&gt;Process Maps&amp;nbsp;&lt;/li&gt;&lt;li&gt;Flow Charts&lt;/li&gt;&lt;li&gt;Use Case Specification&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="2430" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
