@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T21:14:20.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="YILHUYB7n9LpVaH57d5n" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T22:06:21.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="gdOoj8sZnwbJnuE_d00_" version="21.3.6" type="github">
   <diagram name="Page-1" id="avuCrzYc_2zifGQklvcb">
-    <mxGraphModel dx="3822" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
           <mxGeometry x="-417.5" y="620" width="555" height="280" as="geometry" />
         </mxCell>
         <mxCell id="xvKbqlWR54QsmGuHGJQW-46" value="" style="group;fillColor=#999999;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1680" y="1390" width="1520" height="1385" as="geometry" />
+          <mxGeometry x="-1682" y="1392" width="1520" height="1385" as="geometry" />
         </mxCell>
         <mxCell id="20oGBJxCJiwP2vIUOQRp-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Discovery Analysis and Business Requirements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="600" width="400" height="80" as="geometry" />
@@ -205,16 +205,16 @@
         <mxCell id="xvKbqlWR54QsmGuHGJQW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-36" target="xvKbqlWR54QsmGuHGJQW-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feKw_-WsJlsvPGO94x_M-3" value="" style="group;fillColor=#999999;" vertex="1" connectable="0" parent="1">
+        <mxCell id="feKw_-WsJlsvPGO94x_M-3" value="" style="group;fillColor=#999999;strokeColor=#56517e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-140" y="1390" width="300" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Techniques to Clarify the Problem/ Opportunity Statements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Techniques to Clarify the Problem/ Opportunity Statements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
           <mxGeometry y="120" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xvKbqlWR54QsmGuHGJQW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="feKw_-WsJlsvPGO94x_M-3" source="xvKbqlWR54QsmGuHGJQW-49" target="xvKbqlWR54QsmGuHGJQW-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-49" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;PROBLEM OR OPPORTUNITY&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#000000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-49" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;PROBLEM OR OPPORTUNITY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;imageAspect=0;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
           <mxGeometry x="10" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xvKbqlWR54QsmGuHGJQW-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Methods to do :&lt;br&gt;- FIVE WHYS&lt;br&gt;- Fishbone Diagram&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#000000;rounded=0;" parent="feKw_-WsJlsvPGO94x_M-3" vertex="1">
@@ -229,14 +229,83 @@
         <mxCell id="feKw_-WsJlsvPGO94x_M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="feKw_-WsJlsvPGO94x_M-3" source="xvKbqlWR54QsmGuHGJQW-56" target="feKw_-WsJlsvPGO94x_M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feKw_-WsJlsvPGO94x_M-12" value="&lt;font style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="1130" width="400" height="190" as="geometry" />
+        <mxCell id="feKw_-WsJlsvPGO94x_M-12" value="&lt;font style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;1&lt;br&gt;Overview &lt;br&gt;&amp;amp; &lt;br&gt;HOW TO THINK/ START&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="1010" width="1350" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="feKw_-WsJlsvPGO94x_M-13" value="&lt;span style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1130" width="400" height="190" as="geometry" />
+        <mxCell id="feKw_-WsJlsvPGO94x_M-13" value="&lt;span style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;2&lt;br&gt;Spend Time In Ensuring&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-17.5" y="1120" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="feKw_-WsJlsvPGO94x_M-14" value="Analysis :&lt;br&gt;need of analysis&amp;nbsp;&lt;br&gt;models for that&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1160" width="160" height="80" as="geometry" />
+          <mxGeometry x="540" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-15" value="&lt;span style=&quot;font-size: 72px; background-color: rgb(0, 0, 204);&quot;&gt;3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1245" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-18" target="feKw_-WsJlsvPGO94x_M-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-18" value="Analysis:&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;What must change&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;What should stay same&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;What is missing&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;What is unnecessary&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Identify Risk, Constraints, assumption that impact the initiative&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1390" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-19" value="&lt;span style=&quot;background-color: rgb(255, 0, 0);&quot;&gt;TO&lt;br&gt;&amp;nbsp;MEET&lt;br&gt;&amp;nbsp;BUSIENSS &lt;br&gt;NEEDS ?&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1450" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-20" target="feKw_-WsJlsvPGO94x_M-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Models are Techniques&lt;br&gt;which BUISNESS ANALYST uses to&lt;br&gt;DO BUSINESS ANALYSIS&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="518.75" y="1610" width="262.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-22" target="feKw_-WsJlsvPGO94x_M-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-22" value="6 Models" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-23" target="feKw_-WsJlsvPGO94x_M-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-23" value="Domain&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-25" value="Interface" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-27" target="feKw_-WsJlsvPGO94x_M-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-27" value="Scope" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-28" value="Data&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-29" value="Rules &amp;amp; Logic" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-30" value="Process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-32" target="feKw_-WsJlsvPGO94x_M-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-32" value="&lt;ul&gt;&lt;li&gt;It sets the boundaries of the business domain which needs to be analyzed.&lt;br&gt;&lt;/li&gt;&lt;li&gt;The Problem needs to be addressed and the opportunity to be realized.&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="2150" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-35" value="&lt;ul&gt;&lt;li&gt;Org Chart&lt;/li&gt;&lt;li&gt;Stakeholder Mapping&lt;/li&gt;&lt;li&gt;Value Chain Model&lt;/li&gt;&lt;li&gt;Business Model Canvas&lt;/li&gt;&lt;li&gt;Capability Mapping&lt;/li&gt;&lt;li&gt;SWOT Analysis Table&lt;/li&gt;&lt;li&gt;Root Cause Analysis Models&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-43.75" y="2270" width="207.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="feKw_-WsJlsvPGO94x_M-37" target="feKw_-WsJlsvPGO94x_M-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Helps to avoid scope creep,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;what is in projects scope and what not&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Identify and prioritize the specific needs/requirement that project aims to address.&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Strategy and Scope definition and ensuring clarity, vision for the initiative and delivery team&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2150" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-39" value="&lt;ul&gt;&lt;li&gt;User Story&lt;/li&gt;&lt;li&gt;BCD&lt;/li&gt;&lt;li&gt;Decomposition Model&lt;/li&gt;&lt;li&gt;Feature Model&lt;/li&gt;&lt;li&gt;Use Case Diagram&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="2320" width="195" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
