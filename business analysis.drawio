@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T19:08:12.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dX3-jHhIcSMOPATVq_Ki" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T21:04:27.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="zCocLSKCOn2VpOn9DcDP" version="21.3.6" type="github">
   <diagram name="Page-1" id="avuCrzYc_2zifGQklvcb">
-    <mxGraphModel dx="3387" dy="2125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2727" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
         <mxCell id="20oGBJxCJiwP2vIUOQRp-19" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Tylor&#39;s Content&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-290" y="940" width="555" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-46" value="" style="group;fillColor=#999999;" vertex="1" connectable="0" parent="1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-46" value="" style="group;fillColor=#999999;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1680" y="1390" width="1520" height="1385" as="geometry" />
         </mxCell>
         <mxCell id="20oGBJxCJiwP2vIUOQRp-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Discovery Analysis and Business Requirements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
@@ -60,7 +60,7 @@
         <mxCell id="20oGBJxCJiwP2vIUOQRp-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Planning of Project Launch&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="725" y="170" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-18" target="20oGBJxCJiwP2vIUOQRp-22">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-18" target="20oGBJxCJiwP2vIUOQRp-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="20oGBJxCJiwP2vIUOQRp-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Discovery Analysis&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;To define the approaches&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Share the Approaches with Stakeholders&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Share Guidance and tools to lead the Conceptual baseline of understanding of business vision, need and impacts.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
@@ -124,101 +124,107 @@
         <mxCell id="20oGBJxCJiwP2vIUOQRp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-36" target="20oGBJxCJiwP2vIUOQRp-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-1" value="Initiative visioning" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-1" value="Initiative visioning" style="whiteSpace=wrap;html=1;align=center;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="695" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-25" target="xvKbqlWR54QsmGuHGJQW-1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-25" target="xvKbqlWR54QsmGuHGJQW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-3" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-3" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="470" y="590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(240, 0, 24);&quot;&gt;- Identify the &lt;b style=&quot;&quot;&gt;current state &lt;/b&gt;and beneficiaries,&amp;nbsp;Summarize the purpose and&amp;nbsp;project&#39;s future state&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Focus on the need, pain, gain of&amp;nbsp; Customer and stakeholder&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Go beyond the functional needs and address the emotional and social needs.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Align how customer/stakeholder measures the success.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Define how the vision will differentiates from the competitor.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(240, 0, 24);&quot;&gt;- Identify the &lt;b style=&quot;&quot;&gt;current state &lt;/b&gt;and beneficiaries,&amp;nbsp;Summarize the purpose and&amp;nbsp;project&#39;s future state&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Focus on the need, pain, gain of&amp;nbsp; Customer and stakeholder&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Go beyond the functional needs and address the emotional and social needs.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Align how customer/stakeholder measures the success.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Define how the vision will differentiates from the competitor.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="600" y="790" width="290" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-1" target="xvKbqlWR54QsmGuHGJQW-11">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-1" target="xvKbqlWR54QsmGuHGJQW-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="895.0588235294117" y="750" as="sourcePoint" />
             <mxPoint x="850" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-17" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-17" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="690" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-18" value="Information capture" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-18" value="Information capture" style="whiteSpace=wrap;html=1;align=center;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="970" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-25" target="xvKbqlWR54QsmGuHGJQW-18">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-25" target="xvKbqlWR54QsmGuHGJQW-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(240, 0, 24);&quot;&gt;Key Elements&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(240, 0, 24);&quot;&gt;Key Elements&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="685" y="790" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-22" value="- To support the Initiative,&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Do Elicitation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;gather and review available info./doc&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;which supports the business domain, project or impacted system." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-22" value="- To support the Initiative,&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Do Elicitation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;gather and review available info./doc&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;which supports the business domain, project or impacted system." style="whiteSpace=wrap;html=1;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="902.5" y="820" width="255" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-18" target="xvKbqlWR54QsmGuHGJQW-22">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-18" target="xvKbqlWR54QsmGuHGJQW-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-24" value="Methods to do that&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Document analysis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Current state process documentation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Interface Analysis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Interviewing&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Industry Benchmarking&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-24" value="Methods to do that&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Document analysis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Current state process documentation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Interface Analysis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Interviewing&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Industry Benchmarking&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="930" y="970" width="200" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-22" target="xvKbqlWR54QsmGuHGJQW-24">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-22" target="xvKbqlWR54QsmGuHGJQW-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-26" value="Identify the current state&lt;br&gt;review the purpose and project future state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-26" value="Identify the current state&lt;br&gt;review the purpose and project future state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="755" y="610" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-27" value="To support the initiative we need information and Idea of the current state." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-27" value="To support the initiative we need information and Idea of the current state." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="1030" y="600" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-28" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-28" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="970" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-29" value="9 key Components&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Key Partnership&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;key Activities&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Key resources&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Value Proposition&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Customer Relationship&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Channels&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Customer segments&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Cost Structure&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Revenue Streams&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-29" value="9 key Components&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Key Partnership&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;key Activities&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Key resources&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Value Proposition&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Customer Relationship&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Channels&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Customer segments&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Cost Structure&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Revenue Streams&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="510" y="1100" width="120" height="285" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-33" target="xvKbqlWR54QsmGuHGJQW-29">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-33" target="xvKbqlWR54QsmGuHGJQW-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-32" value="Business&#39;s primary activities and&amp;nbsp; Supporting Activities&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; Primary:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inbound Logistics&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;operations&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;marketing and sales&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customer service&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Supporting:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;human Resources&lt;/li&gt;&lt;li&gt;Tech Dev /IT&lt;/li&gt;&lt;li&gt;Infrastructure&lt;/li&gt;&lt;li&gt;Procurement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-32" value="Business&#39;s primary activities and&amp;nbsp; Supporting Activities&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; Primary:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inbound Logistics&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;operations&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;marketing and sales&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customer service&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Supporting:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;human Resources&lt;/li&gt;&lt;li&gt;Tech Dev /IT&lt;/li&gt;&lt;li&gt;Infrastructure&lt;/li&gt;&lt;li&gt;Procurement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="375" y="905" width="120" height="425" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-32" target="xvKbqlWR54QsmGuHGJQW-32">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-32" target="xvKbqlWR54QsmGuHGJQW-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-36" value="Information Organization and Normalizatioin" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-36" value="Information Organization and Normalizatioin" style="whiteSpace=wrap;html=1;rounded=1;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="1200" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-25" target="xvKbqlWR54QsmGuHGJQW-36">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xvKbqlWR54QsmGuHGJQW-46" source="20oGBJxCJiwP2vIUOQRp-25" target="xvKbqlWR54QsmGuHGJQW-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-40" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-40" value="&lt;font style=&quot;background-color: rgb(240, 0, 24); font-size: 36px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="1210" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-41" value="Now identify, asses and organize info to LEVERAGE this model to show CURRENT STATE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-41" value="Now identify, asses and organize info to LEVERAGE this model to show CURRENT STATE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="1265" y="610" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-43" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Scope Models - Org chart, BCD&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Process Models - SIPOC, Flowchart, BPMN&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Interface Models - UI, Screen Flows, Screen Components to interact with Data&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Data Models- Context Diagram, Data Dictionary&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="xvKbqlWR54QsmGuHGJQW-46">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-43" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Scope Models - Org chart, BCD&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Process Models - SIPOC, Flowchart, BPMN&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Interface Models - UI, Screen Flows, Screen Components to interact with Data&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Data Models- Context Diagram, Data Dictionary&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="xvKbqlWR54QsmGuHGJQW-46" vertex="1">
           <mxGeometry x="1170" y="830" width="350" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-36" target="xvKbqlWR54QsmGuHGJQW-43">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xvKbqlWR54QsmGuHGJQW-46" source="xvKbqlWR54QsmGuHGJQW-36" target="xvKbqlWR54QsmGuHGJQW-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvKbqlWR54QsmGuHGJQW-48" target="xvKbqlWR54QsmGuHGJQW-56">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xvKbqlWR54QsmGuHGJQW-48" target="xvKbqlWR54QsmGuHGJQW-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Techniques to Clarify the Problem/ Opportunity Statements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Techniques to Clarify the Problem/ Opportunity Statements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-130" y="1490" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xvKbqlWR54QsmGuHGJQW-49" target="xvKbqlWR54QsmGuHGJQW-48">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xvKbqlWR54QsmGuHGJQW-49" target="xvKbqlWR54QsmGuHGJQW-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-49" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;PROBLEM OR OPPORTUNITY&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-49" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;PROBLEM OR OPPORTUNITY&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="1370" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xvKbqlWR54QsmGuHGJQW-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FIVE WHYS&lt;br&gt;&lt;br&gt;Fishbone Diagram&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="feKw_-WsJlsvPGO94x_M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvKbqlWR54QsmGuHGJQW-56" target="feKw_-WsJlsvPGO94x_M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvKbqlWR54QsmGuHGJQW-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Methods to do :&lt;br&gt;- FIVE WHYS&lt;br&gt;- Fishbone Diagram&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-94.5" y="1610" width="229" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="feKw_-WsJlsvPGO94x_M-1" value="&lt;ul&gt;&lt;li&gt;Spend Time Understanding the True Business Requirements = &lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;background-color: rgb(255, 31, 23);&quot;&gt;Needs &amp;amp; Wants&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Gather some data real evidence&amp;nbsp;that problem is worth&amp;nbsp;solving.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Understand the root-cause of problem before attempting&amp;nbsp;to&amp;nbsp;solve.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;By addressing&amp;nbsp;each&amp;nbsp;root cause,&amp;nbsp;you can ensure the most complete scope to address business requirement.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-127.75" y="1740" width="295.5" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
